@@ -1,4 +1,4 @@
-# Webpage-Saint-John-Koukouzelis
+# Website-Saint-John-Koukouzelis
 Website Creation Project for the PHP Course of the Department of Programmers-Analysts of the School of Computer Programmers of the Hellenic Armed Forces.
 
 For the project it was selected to develop a website about Saint John Koukouzelis the Maestro. The contents of the website included the following webpages:
