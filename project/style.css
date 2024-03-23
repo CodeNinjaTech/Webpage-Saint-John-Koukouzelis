@@ -1,0 +1,79 @@
+head {
+    font-size: 10px;
+    font-family: Roboto, Arial, sans-serif;
+}
+body {
+    color: #666666;
+    background: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    hyphens:auto;
+}
+
+h1, h2 {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    color: #121518;
+}
+
+h3, h4, h5, h6 {
+    font-style:normal;
+    color: #121518;
+    text-align:justify;
+    padding-top:1cm;
+}
+
+p {
+    font-size: 16px;
+    text-align:justify;
+}
+
+a {
+    color: #454545;
+    transition: 0.7s;
+}
+
+a:hover, a:active {
+    color: #a6aa66;
+    outline: none;
+    text-decoration: none;
+}
+table#menu {
+    padding:2px;
+    width: 100%;
+}
+
+table#menu td{
+    text-align:center;
+    font-size: 20px;
+    table-layout: auto;
+}
+
+table#menu td a {
+    color: #1b1919;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+table#menu td a:hover {
+    background-color: rgb(235, 250, 32);
+    color: black;
+}
+
+table#menu td a:active {
+    background-color: #1123ca;
+    color: white;
+}
+
+ol,li {
+    padding: 10px;
+    list-style: decimal;
+}
+
+form {
+    color: #666666;
+    background: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    hyphens:auto;
+}
