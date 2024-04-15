@@ -1,5 +1,7 @@
 # Website Creation Project for PHP Course
 
+Website Creation Project for the PHP Course of the Department of Programmers-Analysts of the School of Computer Programmers of the Hellenic Armed Forces
+
 ## Description
 
 This project focuses on the development of a website dedicated to Saint John Koukouzelis the Maestro, as part of the PHP Course offered by the Department of Programmers-Analysts at the School of Computer Programmers of the Hellenic Armed Forces.
