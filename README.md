@@ -1,6 +1,6 @@
 # Website Creation Project for PHP Course
 
-Website Creation Project for the PHP Course of the Department of Programmers-Analysts of the School of Computer Programmers of the Hellenic Armed Forces
+Website Creation Project for the PHP Course of the Department of Programmers-Analysts of the School of Computer Programmers of the Hellenic Armed Forces.
 
 ## Description
 
